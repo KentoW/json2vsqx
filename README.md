@@ -24,3 +24,7 @@ data = {u'tracks': 1,
 doc = json2vsqx(data)
 print(doc.toprettyxml('', '', 'utf-8'))
 ```
+コマンドライン実行例
+```unix
+python json2vsqx.py > sample.vsqx
+```
