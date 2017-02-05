@@ -1,6 +1,6 @@
 # json2vsqx.py
 ##概要
-PythonでJSON形式の何かかからVOCALOID(VSQXファイル)を作成するスクリプト．
+PythonでJSON形式の何かをVOCALOID(VSQXファイル)を作成するスクリプト．
 ##使い方
 Python2で動作．
 tickが時間(480が1拍)．
